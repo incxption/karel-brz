@@ -1,3 +1,10 @@
+### ⚠️ Disclaimer
+
+Not affiliated with BRZ Deutschland GmbH. Logo and name are trademarks of BRZ Deutschland GmbH. 
+Logo source: https://de.wikipedia.org/wiki/BRZ_Deutschland#/media/Datei:BRZDeutschland.svg
+
+---
+
 😕 Brauchst du Hilfe beim Installieren in Windows?<br>
 📺 Dann schau dir [Karel The Robot installieren in Windows](https://www.youtube.com/watch?v=69du58tb_48&list=PL5vhQpd0v6Y5dVcY8_9Ru6dANaz6UmPnL) an!
 
